@@ -1,15 +1,6 @@
 import View.PuntoEntrada;
 import java.awt.*;
 
-// Branch Gabi
-
-//Branch nacho
-
-//esta es mi rama Dolo!!!
-
-// branch test fede
-
-//modificando
 
 public class Main {
 
